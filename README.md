@@ -18,7 +18,7 @@
 
 ## Professional Summary
 Aspiring junior data scientist with an M.P.S. in Data Science and a B.A. in Psychology (minor in Spanish Literature and Cultures). I pair practical analytics skills with insight into human behavior to convert legal, healthcare, mental‑health, and financial data into clear, actionable insights that improve outcomes for clients and stakeholders.
-[⇧ Back to Top](#heydi-mora-urbina)
+
 
 
 ---
@@ -60,6 +60,7 @@ Aspiring junior data scientist with an M.P.S. in Data Science and a B.A. in Psyc
 **Workflow / DevOps :** Git · VS Code · Jupyter Notebook · Google Colaboratory · PyCharm
 **Behavioral Sci    :** Experimental & survey design 
 
+[⇧ Back to Top](#heydi-mora-urbina)
 ## Education & Certifications
 
 | Year|Credential|
@@ -72,7 +73,7 @@ Aspiring junior data scientist with an M.P.S. in Data Science and a B.A. in Psyc
 |**2025**|	**M.P.S., Data Science** — University of Maryland, Baltimore County|
 
 <a id="research--learning-interests"></a>
-
+[⇧ Back to Top](#heydi-mora-urbina)
 ## Research & Learning Interests
 
 
@@ -84,5 +85,6 @@ Aspiring junior data scientist with an M.P.S. in Data Science and a B.A. in Psyc
 
 ---
 [![](https://visitcount.itsvg.in/api?id=heydi424&icon=0&color=0)](https://visitcount.itsvg.in)
+[⇧ Back to Top](#heydi-mora-urbina)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
