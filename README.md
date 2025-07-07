@@ -1,5 +1,5 @@
 # Heydi Mora Urbina
-*Bilingual Aspiring Junior Data Scientist · Behavioral Insights · Legal & Health Analytics*  
+*Bilingual Aspiring Data Scientist · Behavioral Insights · Legal & Health Analytics*  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heydimora)
 
@@ -17,7 +17,7 @@
 ---
 
 ## Professional Summary
-Aspiring junior data scientist with an M.P.S. in Data Science and a B.A. in Psychology (minor in Spanish Literature and Cultures). I pair practical analytics skills with insight into human behavior to convert legal, healthcare, mental‑health, and financial data into clear, actionable insights that improve outcomes for clients and stakeholders.
+Aspiring data scientist with an M.P.S. in Data Science and a B.A. in Psychology (minor in Spanish Literature and Cultures). I pair practical analytics skills with insight into human behavior to convert legal, healthcare, mental‑health, and financial data into clear, actionable insights that improve outcomes for clients and stakeholders.
 
 
 
